@@ -3,7 +3,8 @@ Filter Post/Product base on class name using isotope
 
 Reference: 
 
-https://isotope.metafizzy.co/filtering.html
+Filter: https://isotope.metafizzy.co/filtering.html <br />
+Sort: https://isotope.metafizzy.co/sorting.html
 
 YT: https://youtu.be/KLWA2vCERSQ?t=3039 
 
